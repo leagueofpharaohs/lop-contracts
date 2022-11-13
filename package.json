@@ -1,0 +1,8 @@
+{
+  "name": "lop-project",
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.7",
+    "hardhat": "^2.12.2"
+  }
+}
