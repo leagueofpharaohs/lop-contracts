@@ -1,8 +1,21 @@
 {
   "name": "lop-project",
-  "devDependencies": {
-    "@nomiclabs/hardhat-waffle": "^2.0.3",
-    "chai": "^4.3.7",
-    "hardhat": "^2.12.2"
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@truffle/hdwallet-provider": "^2.1.1",
+    "chalk": "^4.1.2",
+    "config": "^3.3.8",
+    "dotenv": "^16.0.3",
+    "truffle": "^5.6.5",
+    "truffle-assertions": "^0.9.2",
+    "truffle-plugin-verify": "^0.5.33"
   }
 }
